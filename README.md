@@ -1,4 +1,4 @@
-
+<div align="center"
 ```text
  ███  █████  ███  
 █     █     █   █ 
@@ -6,4 +6,8 @@
 █   █ █     █   █ 
  ███  █████  ███
 ```
-   [Gnomintosh](https://netlify.gnomintosh.app)
+
+
+
+[Gnomintosh](https://gnomintosh.netlify.app)
+</div>
